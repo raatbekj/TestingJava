@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestingJava</string>
+    <string name="result">result</string>
+    <string name="first">First</string>
+    <string name="d">+</string>
+    <string name="second">Second</string>
+    <string name="f">/</string>
+</resources>
